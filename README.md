@@ -29,6 +29,8 @@ Here are some of my recommended settings. These are optional, but I get asked a 
   "editor.tabSize": 2,
   "editor.wordWrap": "off",
 
+  "npm.packageManager": "yarn"
+
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
